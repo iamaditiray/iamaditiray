@@ -1,7 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I am Aditi Ray, a Front-End Developer, Web  Designer and Graphic Designer🚀</div>  
   
