@@ -1,3 +1,6 @@
+
+![Blue   white Entrepreneur Linkedin Article Cover (1)](https://github.com/iamaditiray/iamaditiray/assets/103599179/98d81e4b-5f9f-47dd-bf2f-e3556d87a6a3)
+
 ### <div align="center">I am Aditi Ray, a Front-End Developer, Web  Designer and Graphic Designer🚀</div>  
   
 
