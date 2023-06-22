@@ -4,23 +4,6 @@
 ### <div align="center">Hi There! I am Aditi</div>  
   <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&duration=4000&pause=800&color=F79B44&center=true&vCenter=true&width=435&lines=Nice+To+Meet+You!;I+am+a+Web+Developer%2C;And+a+UI-UX+Designer.;I+Virtualize+Dreams+to+Reality!" alt="Typing SVG" /></p>
 
-
-<div align="center">
-  
----
-
-**[<kbd> <br> About Me <br> </kbd>](##AboutMe)**
-**[<kbd> <br> Tech Stack <br> </kbd>](#my-opensource)**
-**[<kbd> <br> Github Stats <br> </kbd>](#volunteering-experience)** 
-**[<kbd> <br> Certifications and Achivements <br> </kbd>](#my-blogs)**
-**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
-**[<kbd> <br> Socials <br> </kbd>](#my-blogs)**
-
----
-</div>
-
-
-
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me : 
 <img align="right" src="https://gifdb.com/images/file/coding-girl-animation-fe7t4gejurmtof8v.gif" alt="Coding" width="350" height="230" /> 
 • 🌱 I’m currently exploring <b>Mern Stack</b> 🌐</p>
