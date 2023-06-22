@@ -13,7 +13,7 @@
 **[<kbd> <br> Tech Stack <br> </kbd>](#my-opensource)**
 **[<kbd> <br> Github Stats <br> </kbd>](#volunteering-experience)** 
 **[<kbd> <br> Certifications and Achivements <br> </kbd>](#my-blogs)**
-**[<kbd> <br> Work Experience <br> </kbd>](#my-achievements)**
+**[<kbd> <br> Work Experience <br> </kbd>](#work-experience)**
 **[<kbd> <br> Socials <br> </kbd>](#my-blogs)**
 
 ---
