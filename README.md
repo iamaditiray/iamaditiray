@@ -9,8 +9,8 @@
 • 🌱 I’m currently exploring <b>Mern Stack</b> 🌐</p>
 • 👯 I’m looking to collaborate on Open AI P𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
 • 💬 Ask me about <b>Front End Developement</b></p>
-• ✅ Meta Front-En Developer Professional Certificate Course</b></p>
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imakeothersmile@gmail.com">here .</p></a>
+• ✅ Meta Front-End Developer Professional Certificate Course</b></p>
 • :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
 
 <br/>  
