@@ -51,12 +51,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=iamaditiray&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamaditiray&icon=2&color=0)](https://visitcount.itsvg.in)
-
-
-<br/>  
-
----
 
  <h2 align="left" id = "work-experience">🚀 Work Experience :computer_mouse: :desktop_computer: </h2> 
 
@@ -99,6 +93,7 @@
 </table>
 
 <br/>  
+[![](https://visitcount.itsvg.in/api?id=iamaditiray&icon=2&color=0)](https://visitcount.itsvg.in)
 
 ---
 
