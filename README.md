@@ -10,7 +10,6 @@
 • 👯 I’m looking to collaborate on Open AI 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
 • 💬 Ask me about <b>Front End Developement</b></p>
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imakeothersmile@gmail.com">here .</p></a>
-• ⚡ Virtualizing Dreams to Reality!</p>
 • :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
 
 <br/>  
