@@ -7,8 +7,9 @@
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me : 
 <img align="right" src="https://gifdb.com/images/file/coding-girl-animation-fe7t4gejurmtof8v.gif" alt="Coding" width="350" height="230" /> 
 • 🌱 I’m currently exploring <b>Mern Stack</b> 🌐</p>
-• 👯 I’m looking to collaborate on Open AI 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
+• 👯 I’m looking to collaborate on Open AI P𝐫𝐨𝐣𝐞𝐜𝐭𝐬 </p>
 • 💬 Ask me about <b>Front End Developement</b></p>
+• ✅ Meta Front-En Developer Professional Certificate Course</b></p>
 • 📫 You can contact me from <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=imakeothersmile@gmail.com">here .</p></a>
 • :open_book: :books: Skilled in reading books!:closed_book: :desktop_computer:</p>
 
