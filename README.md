@@ -1,5 +1,4 @@
-
-![Blue   white Entrepreneur Linkedin Article Cover (1)](https://github.com/iamaditiray/iamaditiray/assets/103599179/98d81e4b-5f9f-47dd-bf2f-e3556d87a6a3)
+![White Minimalist Profile LinkedIn Banner (2)](https://github.com/iamaditiray/iamaditiray/assets/103599179/b339aa69-1396-4fab-95d9-70557554cd84)
 
 ### <div align="center">Hi There! I am Aditi</div>  
   <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&duration=4000&pause=800&color=F79B44&center=true&vCenter=true&width=435&lines=Nice+To+Meet+You!;I+am+a+Web+Developer%2C;And+a+UI-UX+Designer.;I+Virtualize+Dreams+to+Reality!" alt="Typing SVG" /></p>
